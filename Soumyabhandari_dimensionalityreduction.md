@@ -1,4 +1,4 @@
-##Dimensionality Reduction
+##Dimensionality Reduction##
 
 Dimensionality reduction is simply, the process of reducing the dimension of your feature set. Your feature set could be a dataset with a hundred columnsor it could be an array of points that make up a large sphere in the three-dimensional space. Dimensionality reduction is bringing the number of columns down to say, twenty or converting the sphere to a circle in the two-dimensional space.
 That is all well and good but why should we care? Why would we drop 80 columns off our dataset when we could straight up feed it to our machine learning algorithm and let it do the rest?
